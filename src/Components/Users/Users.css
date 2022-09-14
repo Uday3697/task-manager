@@ -1,0 +1,15 @@
+
+
+.main-con{
+    color: white;
+    font-weight: bold;
+    width: 80%;
+    border: 1px solid grey;
+    border-radius: 15px;
+}
+.dp{
+    width: 35px;
+    height: 35px;
+    border-radius: 10px;
+    border: 1px solid red;
+}
